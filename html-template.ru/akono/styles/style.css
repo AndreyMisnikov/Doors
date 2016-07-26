@@ -75,7 +75,7 @@ a:hover{
 /* -- Header -- */
 /* ------------ */
 #header{
-	height:150px;
+	height:180px;
 	padding:45px 0 0 0;
 }
 #header img, #header h1{
@@ -90,7 +90,7 @@ a:hover{
 /* --------- */
 #nav{
 	float:right;
-	margin:25px -15px 0 0;
+	margin:45px -15px 0 0;
 }
 .menu{
 	padding:7px 6px 0 0;
@@ -157,13 +157,20 @@ a:hover{
 #featured-section{
 	float:left;
 	margin:10px 0 0 0;
+	background-image: url("../images/mainBackground2.jpg");
+	background-size: cover;
+	height:690px;
 }
 #featured-section h2{
-	background:url(../images/featured-title.png) no-repeat;
+	//background:url(../images/featured-title.png) no-repeat;
 	width:953px;
-	height:56px;
-	text-indent:-9999px;
-	margin-top:0;
+	height:200px;
+	margin:15px;
+	margin-top :250px;
+	font-weight: bold;
+	text-align: justify;
+	text-indent: 1.5em;
+	color: #e2dd12;
 }
 #circles{
 	float:left;
@@ -196,12 +203,12 @@ a:hover{
 /* ------------------ */
 #featured-section #image-slider{
 	float:left;
-	background:url(../images/img-slider-bg.png) repeat-x;
-	width:960px;
+	//background:url(../images/img-slider-bg.png) repeat-x;
+	width: 960px;
 	height:250px;
 	margin:50px 0 0 0;
 	border:1px #ddd solid;
-	background-color:#fff;
+	//background-color:#fff;
 }
 .jcarousel-container-horizontal{
 	float:left;
