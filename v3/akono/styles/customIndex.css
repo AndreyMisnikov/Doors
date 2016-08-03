@@ -1,0 +1,40 @@
+.phones {
+    text-align: right;
+    line-height: 36px;
+    font-size: 16px;
+	margin-right: 20px;
+	margin-top: -90px;
+}
+
+.phoneLabel {
+	font-size:24px;
+	text-align: right;
+	text-decoration:underline;
+}
+
+.afterImageMain {
+	margin-top : 40px;
+}
+
+.descriptionCompany{
+	height:200px;
+	margin:15px;
+	text-align: justify;
+	text-indent: 2.5em;
+}
+
+.jcarousel-skin-tango {
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	float:center;
+}
+
+.slogan {
+	font-size:28px;
+	width: 700px;
+	text-align: center;
+	margin-top: 10px;
+	line-height: 40px;
+}
